@@ -1,5 +1,5 @@
 # Python_Application_Repo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Python_Application_Repo/HEAD)
-Repo for all the Python Application article code and notebook
+Repo for all the Python Application article code and notebook. Have all the articles in one place later.
 
 |Article|Link|
 |---|---|
